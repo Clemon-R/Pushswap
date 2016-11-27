@@ -5,7 +5,7 @@
 ## Login   <raphael.goulmot@epitech.net>
 ## 
 ## Started on  Mon Nov  7 16:40:32 2016 Raphaël Goulmot
-## Last update Tue Nov 22 16:20:00 2016 Raphaël Goulmot
+## Last update Sun Nov 27 17:41:18 2016 Raphaël Goulmot
 ##
 
 SRC	=	src/core/main.c		\
